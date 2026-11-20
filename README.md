@@ -80,8 +80,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 **## Output**
 
-<img width="1920" height="1080" alt="ex5" src="https://github.com/user-attachments/assets/536958c9-a0b8-440c-ad14-203d12f06b03" />
-<img width="1920" height="1080" alt="ex5-2" src="https://github.com/user-attachments/assets/75566aee-88f4-45cb-92fb-954e2dcecaff" />
 
 
 
